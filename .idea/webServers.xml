@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ac93ee28-9890-4a95-989d-77ad32e09e23" name="albahru.com" url="http://albahru.com">
+        <fileTransfer host="albahru.com" port="22" rootFolder="/home/taufikba/public_html/taufiksoleh.com/joko" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
